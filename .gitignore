@@ -11,5 +11,4 @@ Cargo.lock
 __pycache__
 *~
 .*~
-sd_*jpg
-sd_*png
+*.png

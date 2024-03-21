@@ -55,7 +55,7 @@ cd data
 
 echo "Getting the Weights and the Vocab File"
 # get the weights
-wget_vocab 
+#wget_vocab 
 wget_clip_weights 
 wget_vae_unet_weights $1 
 
